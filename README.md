@@ -23,3 +23,5 @@ In this project, I have learned how to model a real-world object, like a Rubikâ€
 
 ## Conclusion
 Through this project, I have gained valuable insights into modeling, problem-solving, and the practical application of various programming techniques and algorithms. This foundation can be extended to solve more complex problems in the field of AI and beyond.
+
+## Github link
